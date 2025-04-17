@@ -1,5 +1,13 @@
 # 💫 About Me:
-I'm looking to collaborate on backend development.<br>I'm working on node.js & Express.js apps.
+👋 Hi, I'm Yvan Hirwa — a passionate developer.
+
+💡 What began as curiosity grew into commitment — from late-night C++, HTML, CSS, and PHP practice sessions with W3Schools and YouTube to building real-world projects. I’ve always believed in learning by doing.
+
+🛠️ I now spend my time exploring the JavaScript ecosystem — building with React, Node.js, and Express, and tinkering with backend-as-a-service platforms like Appwrite. I love taking on challenges, especially the kind that push me just beyond what I already know.
+
+🚀 Currently, I'm building personal projects, and sharpening my skills.
+
+📬 Let's connect or collaborate — I’m always up for new learning experiences and coding adventures!
 
 
 ## 🌐 Socials:
