@@ -9,7 +9,7 @@
 
 📬 Let's connect or collaborate — I’m always up for new learning experiences and coding adventures!
 
-
+<!--
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yvankhirwa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yvan-hirwa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yvankhirwa) 
 
@@ -18,7 +18,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yvan-hirwa&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yvan-hirwa&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yvan-hirwa&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yvan-hirwa&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)-->
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yvan-hirwa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
