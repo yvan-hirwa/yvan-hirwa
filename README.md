@@ -1,2 +1,2 @@
-## I’m always up for new learning experiences and coding adventures!
+I’m always up for new learning experiences.
 
