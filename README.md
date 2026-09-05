@@ -1,6 +1,6 @@
-# Hi — I'm Yvan Hirwa
+# Hi, I'm Yvan Hirwa
 
-I'm a software developer and lifelong learner. I enjoy solving problems, building useful tools, and exploring new technologies.
+I'm a software developer and learner. I enjoy solving problems, building useful tools, and exploring new technologies.
 
 I’m always up for new learning experiences.
 
@@ -12,7 +12,7 @@ I’m always up for new learning experiences.
 
 ## Current focus
 
-- Improving my skills in modern web development (JavaScript/TypeScript, Node.js).
+- Improving my skills in modern web development.
 - Learning cloud fundamentals and deployment practices.
 - Building projects that help me learn and share knowledge.
 
@@ -22,7 +22,7 @@ Check out my repositories for examples of my work: https://github.com/yvan-hirwa
 
 ## Contributing & contact
 
-Pull requests, issues, and feedback are welcome. The best way to reach me is via GitHub: https://github.com/yvan-hirwa
+Pull requests, issues, and feedback are welcome. The best way to reach me is via: [Yvan Hirwa](https://yvanhirwa.vercel.app/)
 
 ---
 
